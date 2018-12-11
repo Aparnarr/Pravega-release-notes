@@ -3,12 +3,13 @@
 [Pravega]() is an open source distributed storage service implementing Streams. It offers Stream as the main primitive for the foundation of reliable storage systems: a high-performance, durable, elastic, and unlimited append-only byte stream with strict ordering and consistency.
 
 We are announcing the first release of the Pravega Operator, the easiest and best way to deploy and manage Pravega cluster in Kubernetes. The Pravega operator manages Pravega clusters deployed to Kubernetes and automates tasks related to operating a Pravega cluster. The [Pravega Operator](https://github.com/pravega/pravega-operator) project is currently alpha. The following are the key features addressed in [Pravega Operator v0.2.1](https://github.com/pravega/pravega-operator/releases/tag/0.2.1)
-•	 Create and destroy a Pravega cluster
-•	 Resize cluster
+
+- Create and destroy a Pravega cluster
+- Resize cluster
 
 Pravega operator is built on top of a common set of Kubernetes APIs by providing great automation experience. The Pravega operator performs packaging, deploying and managing the Kubernetes application. The Pravega operator is developed using the operator framework (SDK).
 
-Below is a summary of the issues addressed in the v0.2.1 release of Pravega. For full documentation of the release, a guide to get started, and information about the project, see the Pravega website and Pravega Operator Github Repository. 
+Below is a summary of the issues addressed in the v0.2.1 release of Pravega Operator. For full documentation of the release, a guide to [get started](), and information about the project, see the [Pravega website]() and [Pravega Operator Github Repository](). 
 The documentation for the most recent release can be found at Pravega website.
 
 # Important Reminders for Pravega version v0.2.1
