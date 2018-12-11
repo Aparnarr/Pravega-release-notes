@@ -31,17 +31,24 @@ Pravega requires a long term storage provider known as Tier 2 storage. The follo
 
 # Issues addressed in Pravega Operator version v0.2.1
 
-Below is a summary of the issues addressed in the [V0.2.1 release](https://github.com/pravega/pravega-operator/releases/tag/0.2.1) of Pravega. For full documentation of the release, a guide to [get started](https://github.com/pravega/pravega-operator/blob/master/README.md), and information about the project, see the [Pravega website](http://pravega.io) and [Pravega OPerator Github Repository](https://github.com/pravega/pravega-operator). 
+Below is a summary of the issues addressed in the Pravega Operator [V0.2.1 release](https://github.com/pravega/pravega-operator/releases/tag/0.2.1) and also the important issues addressed from v0.1.1. For full documentation of the release, a guide to [get started](https://github.com/pravega/pravega-operator/blob/master/README.md), and information about the project, see the [Pravega website](http://pravega.io) and [Pravega OPerator Github Repository](https://github.com/pravega/pravega-operator). 
 
 The [documentation](https://github.com/pravega/pravega-operator/blob/master/README.md) for the most recent release can be found at Pravega website.
+
 
 
 ## New feature
 
 ## Bug Fixes
+
 [Issue 78:]() Clean up persistent volumes when deleting Pravega Cluster [#103]()
+
 [Issue 97:]() Update to operator SDK v0.2.0 [#105]()
+
 [Issue 82:]() Ability to scale Pravega Controller [#99]()
+
 [Issue 61:]() Support external connectivity [#77]()
+
 [Issue 95:]() Updated README.md [#95]()
+
 [Issue 79:]() Ability to use non-default service accounts [#80]()
