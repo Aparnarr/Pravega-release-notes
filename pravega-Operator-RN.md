@@ -38,3 +38,10 @@ The [documentation](https://github.com/pravega/pravega-operator/blob/master/READ
 
 ## New feature
 
+## Bug Fixes
+[Issue 78:]() Clean up persistent volumes when deleting Pravega Cluster [#103]()
+[Issue 97:]() Update to operator SDK v0.2.0 [#105]()
+[Issue 82:]() Ability to scale Pravega Controller [#99]()
+[Issue 61:]() Support external connectivity [#77]()
+[Issue 95:]() Updated README.md [#95]()
+[Issue 79:]() Ability to use non-default service accounts [#80]()
