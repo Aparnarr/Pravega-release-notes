@@ -1,5 +1,5 @@
 # Release Notes
-## Pravega operator Version v0.2.1
+## Pravega Operator Version v0.2.1
 
 [Pravega]() is an open source distributed storage service implementing Streams. It offers Stream as the main primitive for the foundation of reliable storage systems: a high-performance, durable, elastic, and unlimited append-only byte stream with strict ordering and consistency.
 
@@ -40,6 +40,8 @@ The [documentation](https://github.com/pravega/pravega-operator/blob/master/READ
 ## New feature
 
 ## Bug Fixes
+
+## Issue List
 
 [Issue 78:]() Clean up persistent volumes when deleting Pravega Cluster [#103]()
 
