@@ -2,13 +2,13 @@
 
 # Release Notes: Pravega v0.4.0
 
-- [Important Reminders for Pravega version v0.4.0](#important-reminders-for-pravega-version-v0.4.0)  
-- [New features](#new-feature)
+- [Important Remainders for Pravega version v0.4.0](#important-remainders-for-pravega-version-v0-4-0)  
+- [New features](#new-features)
 - [Resolved Issues in Pravega version v0.4.0](#bug)
 - [Upgrading to Pravega Version v0.4.0] 
 
 
-# Important Reminders for Pravega version v0.4.0
+# Important Remainders for Pravega version v0.4.0
 
 The following prerequisites are required for running in production. This page describes the prerequisites and installation steps to deploy Pravega in a multi-node production environment. 
 
