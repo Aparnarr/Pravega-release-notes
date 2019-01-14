@@ -31,9 +31,9 @@ The [documentation]() for the most recent release can be found at Pravega websit
 
 [Issue 3173:](https://github.com/pravega/pravega/issues/3173) Prevent mis-routing of events (#3177)
 
-[Issue 3108:] (https://github.com/pravega/pravega/issues/3108)List all the scopes during listScopes call (#3110)
+[Issue 3108:](https://github.com/pravega/pravega/issues/3108)List all the scopes during listScopes call (#3110)
 
-[Issue 3137:] (https://github.com/pravega/pravega/issues/3137)Added prefix to StatsD reporter. (#3139)
+[Issue 3137:](https://github.com/pravega/pravega/issues/3137)Added prefix to StatsD reporter. (#3139)
   
 [Issue-3137](https://github.com/pravega/pravega/issues/3137): Added prefix to StatsD reporter. [PR-3139](https://github.com/pravega/pravega/pull/3139)
 
