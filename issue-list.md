@@ -1,5 +1,13 @@
 
 
+# Release Notes: Pravega v0.4.0
+
+- [Important Reminders for Pravega version v0.4.0](#important-reminders-for-pravega-version-v0.4.0)  
+- [New features](#new-feature)
+- [Resolved Issues in Pravega version v0.4.0](#bug)
+- [Upgrading to Pravega Version v0.4.0] 
+
+
 # Important Reminders for Pravega version v0.4.0
 
 The following prerequisites are required for running in production. This page describes the prerequisites and installation steps to deploy Pravega in a multi-node production environment. 
@@ -38,7 +46,7 @@ Below is a summary of the issues addressed in the [V0.4.0 release](https://githu
 The [documentation]() for the most recent release can be found at Pravega website.
 
 
-## New feature
+## New Features
 [Issue 291](https://github.com/pravega/pravega/issues/291): Add a byte oriented API per PDP-30 [PR-2978](https://github.com/pravega/pravega/pull/2978)
 
 [Issue 2943](https://github.com/pravega/pravega/issues/2943): Controller metadata per stream scalability [PR-3033](https://github.com/pravega/pravega/pull/3033)
