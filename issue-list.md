@@ -120,9 +120,9 @@ The [documentation]() for the most recent release can be found at Pravega websit
 [Issue-2982]()  Performance observed with NFS as Tier 2 storage (Known Issue)
 
 
-# Issues related with Pravega Operator for Pravega version v0.4.0
+## Issues related with Pravega Operator for Pravega version v0.4.0
            
-# Issue related with Pravega Flink connectors for Pravega version v0.4.0
+## Issue related with Pravega Flink connectors for Pravega version v0.4.0
    
    [Issue 3076:]() Bugfix for outstanding checkpoint count. (#3079)
 
