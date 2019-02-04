@@ -59,7 +59,9 @@ The [documentation]() for the most recent release can be found at Pravega websit
 ## Bug
 
 [Issue 3310:] (https://github.com/pravega/pravega/issues/3310)Execute waitForTxnsToComplete before stopping readers. Removed useless boolean from parent class. (#3314)
+
 [Issue 3304: ](https://github.com/pravega/pravega/issues/3304)Check correctness of event sequences with a shared map across readers. (#3315)
+
 [Issue 2933:] (https://github.com/pravega/pravega/issues/2933)(SegmentStore) testEndToEndWithFencing fixes (#3294)
 
 [Issue 3122:](https://github.com/pravega/pravega/issues/3122) Bug in commit transaction workflow for a stream in sealing state (#3225)
@@ -110,24 +112,25 @@ The [documentation]() for the most recent release can be found at Pravega websit
 [Issue-3108](https://github.com/pravega/pravega/issues/3108): List all the scopes during listScopes call [PR-3110](https://github.com/pravega/pravega/pull/3110)
 
 ## Release
-[Issue 3055:]() Update Pravega version in r0.4 to 0.4.0 (#3056)
+[Issue 3055:](https://github.com/pravega/pravega/issues/3055) Update Pravega version in r0.4 to 0.4.0 (#3056)
 
 ## Document Revision
 
 [Issue 2966](https://github.com/pravega/pravega/issues/2966): Document fix pravegaconcepts doc (#3005)
 
-[Issue 3009:]() Update streamcuts.md (#3019)
+[Issue 3009:](https://github.com/pravega/pravega/issues/3009) Update streamcuts.md (#3019)
 
-[Issue 3020:]() Update reader-group.md (#3021)
+[Issue 3020:](https://github.com/pravega/pravega/issues/3020) Update reader-group.md (#3021)
+[Issue 3136:] (https://github.com/pravega/pravega/issues/3136)
 
 ## Performance
 
-[Issue-2982]()  Performance observed with NFS as Tier 2 storage (Known Issue)
+[Issue-2982](https://github.com/pravega/pravega/issues/2982)  Performance observed with NFS as Tier 2 storage (Known Issue)
 
 
 ## Issues related with Pravega Operator for Pravega version v0.4.0
            
 ## Issue related with Pravega Flink connectors for Pravega version v0.4.0
    
-   [Issue 3076:]() Bugfix for outstanding checkpoint count. (#3079)
+   [Issue 3076:](https://github.com/pravega/pravega/issues/3076) Bugfix for outstanding checkpoint count. (#3079)
 
