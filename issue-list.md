@@ -57,6 +57,11 @@ The [documentation]() for the most recent release can be found at Pravega websit
    
 
 ## Bug
+
+[Issue 3310:] (https://github.com/pravega/pravega/issues/3310)Execute waitForTxnsToComplete before stopping readers. Removed useless boolean from parent class. (#3314)
+[Issue 3304: ](https://github.com/pravega/pravega/issues/3304)Check correctness of event sequences with a shared map across readers. (#3315)
+[Issue 2933:] (https://github.com/pravega/pravega/issues/2933)(SegmentStore) testEndToEndWithFencing fixes (#3294)
+
 [Issue 3122:](https://github.com/pravega/pravega/issues/3122) Bug in commit transaction workflow for a stream in sealing state (#3225)
 
 [Issue 3224:](https://github.com/pravega/pravega/issues/3224) Moved initialization of metrics reporter to Controller main class. (#3226)
