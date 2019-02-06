@@ -116,12 +116,17 @@ The [documentation]() for the most recent release can be found at Pravega websit
 
 ## Document Revision
 
-[Issue 2966](https://github.com/pravega/pravega/issues/2966): Document fix pravegaconcepts doc (#3005)
-
 [Issue 3009:](https://github.com/pravega/pravega/issues/3009) Update streamcuts.md (#3019)
-
 [Issue 3020:](https://github.com/pravega/pravega/issues/3020) Update reader-group.md (#3021)
-[Issue 3136:] (https://github.com/pravega/pravega/issues/3136)
+[Issue 3133:](https://github.com/pravega/pravega/issues/3133) Document fix /documentation/src/docs/pravega-concepts.md (#3134 )
+[Issue 3096:](https://github.com/pravega/pravega/issues/3096) Document fix /documentation/src/docs/security/pravega-security-configurations.md
+(#3102 )
+[Issue 3096:](https://github.com/pravega/pravega/issues/3096)Document fix /documentation/src/docs/security/pravega-security-encryption.md(#3102)
+[Issue 3095:](https://github.com/pravega/pravega/issues/3095) Document fix /documentation/src/docs/basic-reader-and-writer.md. (#3098 )
+[Issue 3086:](https://github.com/pravega/pravega/issues/3086) Document fix/documentation /src/docs/controller-service.md(#3097)
+[Issue 3156:](https://github.com/pravega/pravega/issues/3156) Document fix/documentation /src/docs/Segment-store-service.md(#3157)
+[Issue 3142:](https://github.com/pravega/pravega/issues/3142) Document fix/documentation /src/docs/Key-features.md( #3165 )
+[Issue 3200:](https://github.com/pravega/pravega/issues/3200) Document fix/documentation/src/docs/wire-protocol.md(#3201)
 
 ## Performance
 
