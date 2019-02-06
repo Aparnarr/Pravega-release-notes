@@ -58,29 +58,29 @@ The [documentation]() for the most recent release can be found at Pravega websit
 
 ## Bug
 
-[Issue 3310:] (https://github.com/pravega/pravega/issues/3310)Execute waitForTxnsToComplete before stopping readers. Removed useless boolean from parent class. (#3314)
+[Issue 3310:](https://github.com/pravega/pravega/issues/3310): Execute waitForTxnsToComplete before stopping readers. Removed useless boolean from parent class. (#3314)
 
-[Issue 3304: ](https://github.com/pravega/pravega/issues/3304)Check correctness of event sequences with a shared map across readers. (#3315)
+[Issue 3304: ](https://github.com/pravega/pravega/issues/3304): Check correctness of event sequences with a shared map across readers. (#3315)
 
-[Issue 2933:] (https://github.com/pravega/pravega/issues/2933)(SegmentStore) testEndToEndWithFencing fixes (#3294)
+[Issue 2933:](https://github.com/pravega/pravega/issues/2933): (SegmentStore) testEndToEndWithFencing fixes (#3294)
 
-[Issue 3122:](https://github.com/pravega/pravega/issues/3122) Bug in commit transaction workflow for a stream in sealing state (#3225)
+[Issue 3122:](https://github.com/pravega/pravega/issues/3122): Bug in commit transaction workflow for a stream in sealing state (#3225)
 
-[Issue 3224:](https://github.com/pravega/pravega/issues/3224) Moved initialization of metrics reporter to Controller main class. (#3226)
+[Issue 3224:](https://github.com/pravega/pravega/issues/3224): Moved initialization of metrics reporter to Controller main class. (#3226)
 
-[Issue 3202:](https://github.com/pravega/pravega/issues/3202) Curator.close causes background curator calls to never complete (#3203)
+[Issue 3202:](https://github.com/pravega/pravega/issues/3202): Curator.close causes background curator calls to never complete (#3203)
 
-[Issue 3131:](https://github.com/pravega/pravega/issues/3131) Controller shutdown is stuck for a long time during zk session expiry.  (#3143)
+[Issue 3131:](https://github.com/pravega/pravega/issues/3131): Controller shutdown is stuck for a long time during zk session expiry.  (#3143)
 
-[Issue 3171:](https://github.com/pravega/pravega/issues/3171) Transaction commits metric not being reported (#3194)
+[Issue 3171:](https://github.com/pravega/pravega/issues/3171): Transaction commits metric not being reported (#3194)
 
-[Issue 3138:](https://github.com/pravega/pravega/issues/3138) Use HOSTNAME envvar as metrics prefix (#3205)
+[Issue 3138:](https://github.com/pravega/pravega/issues/3138): Use HOSTNAME envvar as metrics prefix (#3205)
 
-[Issue 3173:](https://github.com/pravega/pravega/issues/3173) Prevent mis-routing of events (#3177)
+[Issue 3173:](https://github.com/pravega/pravega/issues/3173): Prevent mis-routing of events (#3177)
 
-[Issue 3108:](https://github.com/pravega/pravega/issues/3108)List all the scopes during listScopes call (#3110)
+[Issue 3108:](https://github.com/pravega/pravega/issues/3108): List all the scopes during listScopes call (#3110)
 
-[Issue 3137:](https://github.com/pravega/pravega/issues/3137)Added prefix to StatsD reporter. (#3139)
+[Issue 3137:](https://github.com/pravega/pravega/issues/3137): Added prefix to StatsD reporter. (#3139)
   
 [Issue-3137](https://github.com/pravega/pravega/issues/3137): Added prefix to StatsD reporter. [PR-3139](https://github.com/pravega/pravega/pull/3139)
 
@@ -112,30 +112,39 @@ The [documentation]() for the most recent release can be found at Pravega websit
 [Issue-3108](https://github.com/pravega/pravega/issues/3108): List all the scopes during listScopes call [PR-3110](https://github.com/pravega/pravega/pull/3110)
 
 ## Release
-[Issue 3055:](https://github.com/pravega/pravega/issues/3055) Update Pravega version in r0.4 to 0.4.0 (#3056)
+[Issue 3055:](https://github.com/pravega/pravega/issues/3055): Update Pravega version in r0.4 to 0.4.0 (#3056)
 
 ## Document Revision
 
-[Issue 3009:](https://github.com/pravega/pravega/issues/3009) Update streamcuts.md (#3019)
-[Issue 3020:](https://github.com/pravega/pravega/issues/3020) Update reader-group.md (#3021)
-[Issue 3133:](https://github.com/pravega/pravega/issues/3133) Document fix /documentation/src/docs/pravega-concepts.md (#3134 )
-[Issue 3096:](https://github.com/pravega/pravega/issues/3096) Document fix /documentation/src/docs/security/pravega-security-configurations.md
+[Issue 3009:](https://github.com/pravega/pravega/issues/3009): Update streamcuts.md (#3019)
+
+[Issue 3020:](https://github.com/pravega/pravega/issues/3020): Update reader-group.md (#3021)
+
+[Issue 3133:](https://github.com/pravega/pravega/issues/3133): Document fix /documentation/src/docs/pravega-concepts.md (#3134 )
+
+[Issue 3096:](https://github.com/pravega/pravega/issues/3096): Document fix /documentation/src/docs/security/pravega-security-configurations.md
 (#3102 )
-[Issue 3096:](https://github.com/pravega/pravega/issues/3096)Document fix /documentation/src/docs/security/pravega-security-encryption.md(#3102)
-[Issue 3095:](https://github.com/pravega/pravega/issues/3095) Document fix /documentation/src/docs/basic-reader-and-writer.md. (#3098 )
-[Issue 3086:](https://github.com/pravega/pravega/issues/3086) Document fix/documentation /src/docs/controller-service.md(#3097)
-[Issue 3156:](https://github.com/pravega/pravega/issues/3156) Document fix/documentation /src/docs/Segment-store-service.md(#3157)
-[Issue 3142:](https://github.com/pravega/pravega/issues/3142) Document fix/documentation /src/docs/Key-features.md( #3165 )
-[Issue 3200:](https://github.com/pravega/pravega/issues/3200) Document fix/documentation/src/docs/wire-protocol.md(#3201)
+
+[Issue 3096:](https://github.com/pravega/pravega/issues/3096): Document fix /documentation/src/docs/security/pravega-security-encryption.md(#3102)
+
+[Issue 3095:](https://github.com/pravega/pravega/issues/3095): Document fix /documentation/src/docs/basic-reader-and-writer.md. (#3098 )
+
+[Issue 3086:](https://github.com/pravega/pravega/issues/3086): Document fix/documentation /src/docs/controller-service.md(#3097)
+
+[Issue 3156:](https://github.com/pravega/pravega/issues/3156): Document fix/documentation /src/docs/Segment-store-service.md(#3157)
+
+[Issue 3142:](https://github.com/pravega/pravega/issues/3142): Document fix/documentation /src/docs/Key-features.md( #3165 )
+
+[Issue 3200:](https://github.com/pravega/pravega/issues/3200): Document fix/documentation/src/docs/wire-protocol.md(#3201)
 
 ## Performance
 
-[Issue-2982](https://github.com/pravega/pravega/issues/2982)  Performance observed with NFS as Tier 2 storage (Known Issue)
+[Issue-2982](https://github.com/pravega/pravega/issues/2982):  Performance observed with NFS as Tier 2 storage (Known Issue)
 
 
 ## Issues related with Pravega Operator for Pravega version v0.4.0
            
 ## Issue related with Pravega Flink connectors for Pravega version v0.4.0
    
-   [Issue 3076:](https://github.com/pravega/pravega/issues/3076) Bugfix for outstanding checkpoint count. (#3079)
+   [Issue 3076:](https://github.com/pravega/pravega/issues/3076): Bugfix for outstanding checkpoint count. (#3079)
 
