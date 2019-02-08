@@ -44,6 +44,12 @@ Pravega requires Bookkeeper x.x.0+. At least 3 Bookkeeper servers are recommende
 Below is a summary of the issues addressed in the [V0.4.0 Release](https://github.com/pravega/pravega/releases) of Pravega. For full documentation of the release, a guide to [get started](http://pravega.io/docs/latest/getting-started), and information about the project, see the [Pravega website](http://pravega.io) and [Pravega Github Repository](https://github.com/pravega/pravega). 
 
 The [documentation](http://pravega.io/docs/latest/) for the most recent release can be found at Pravega website.
+The highlights of the Pravega 0.4.0. release are:
+
+- Over 125 issues have been fixed in this release
+- A new byte API for ingesting unbounded streams (e.g., videos)
+- Higher scalability per stream
+- Updated Docker images to use an Alpine base to reduce image size
 
 
 ## New Features
