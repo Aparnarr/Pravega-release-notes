@@ -1,7 +1,7 @@
 
-# Issues addressed in Pravega version v0.4.0.
+# Issues addressed in Pravega Version v0.4.0.
 
-Below is a summary of the issues addressed in the [V0.4.0 release](https://github.com/pravega/pravega/releases) of Pravega. For full documentation of the release, a guide to [get started](), and information about the project, see the [Pravega website]() and [Pravega Github Repository](). 
+Below is a summary of the issues addressed in the [V0.4.0 release](https://github.com/pravega/pravega/releases) of Pravega. For full documentation of the release, a guide to [get started](), and information about the project, see the [Pravega website]() and [Pravega Github Repository]().
 
 The [documentation]() for the most recent release can be found at Pravega website.
 
@@ -14,7 +14,7 @@ The [documentation]() for the most recent release can be found at Pravega websit
 ## Enhancement
 
 [Issue 3096](https://github.com/pravega/pravega/issues/3096): Updating documentation with ZK TLS information. [PR-3102](https://github.com/pravega/pravega/pull/3102)
-   
+
 
 ## Bug
 [Issue-3137](https://github.com/pravega/pravega/issues/3137): Added prefix to StatsD reporter. [PR-3139](https://github.com/pravega/pravega/pull/3139)
@@ -63,8 +63,7 @@ The [documentation]() for the most recent release can be found at Pravega websit
 
 
 # Issues related with Pravega Operator for Pravega version v0.4.0
-           
-# Issue related with Pravega Flink connectors for Pravega version v0.4.0
-   
-   [Issue 3076:]() Bugfix for outstanding checkpoint count. (#3079)
 
+# Issue related with Pravega Flink connectors for Pravega version v0.4.0
+
+   [Issue 3076:]() Bugfix for outstanding checkpoint count. (#3079)
